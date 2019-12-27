@@ -6,12 +6,12 @@ You can use this as a snippets for setup your code faster in your editor. As i u
 2. Click -> File
 3. Click -> Preference
 4. Click -> User Snippets,
-5. Search for -> cpp.json
+5. Search -> for -> cpp.json
 6. From Dropdown Select -> cpp.json
-7. Hit Enter
-8. Clear everything from your -> cpp.json
-9. Copy this file and past to -> cpp.json
-10. Save the file and Close it
+7. Hit -> Enter
+8. Clear -> everything from your -> cpp.json
+9. Copy -> this file and Past to -> cpp.json
+10. Save -> the file and Close -> it
 
 All done now whenever you want to start a new code just create a cpp file and type cpp and hit enter. You will get lines of code to start with. Happy Coding :) !!
 

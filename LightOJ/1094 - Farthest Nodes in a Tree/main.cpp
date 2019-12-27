@@ -60,10 +60,11 @@ const double PI = acos(-1.0);
 
 int main(){
     //fastio;
-    fstream fin("input.txt");
-    ofstream fout("output.txt");
-
-
+    //fstream fin("input.txt");
+    //ofstream fout("output.txt");
+    
+    
+    
     
     return 0;
 }
