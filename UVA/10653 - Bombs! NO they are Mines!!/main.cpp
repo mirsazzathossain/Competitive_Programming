@@ -56,6 +56,42 @@ const int MOD = 1000000007;
 const int MAX = 1000005;
 const double PI = acos(-1.0);
 
+#define boom 0
+#define safe 1
+#define visited 2
+int mp[1000][1000];
+int level[1000][1000];
+
+int fx[] = {0, 0, -1, 1};
+int fy[] = {-1, 1, 0, 0};
+
+
+void bfs(int R, int C, pii src){
+    level[src.first][src.second] = 0;
+    mp[src.first][src.second] = visited;
+
+    queue<pii>q;
+    q.push(src);
+
+    while(!q.empty()){
+        pii u = q.front();
+        q.pop();
+
+        int i;
+        loop0(i, 4){
+            int nx = u.first + fx[i];
+            int ny = u.second + fy[i];
+
+            if(nx >= 0 && nx < R && ny >= 0 && ny < C && mp[nx][ny] == safe){
+                level[nx][ny] = level[u.first][u.second] + 1;
+                mp[nx][ny] = visited;
+                q.push(pii(nx, ny));
+            }
+        }
+    }
+
+}
+
 
 
 int main(){
@@ -63,7 +99,35 @@ int main(){
     //fstream fin("input.txt");
     //ofstream fout("output.txt");
     
-    
+    int R, C, row;
+    while(cin>>R>>C){
+        if(R == 0 && C == 0) break;
+        int i, j;
+        loop0(i, 1000){
+            loop0(j, 1000){
+                mp[i][j] = safe;
+                level[i][j] = INT_MIN;
+            }
+        }
+
+        sfi(row);
+        int rowNo, numBoom, colNo;
+
+        while(row--){
+            sfi(rowNo);sfi(numBoom);
+            while(numBoom--){
+                sfi(colNo);
+                mp[rowNo][colNo] = boom;
+            }
+        }
+        
+        int sx, sy, ex, ey;
+        sfi(sx); sfi(sy);
+        sfi(ex); sfi(ey);
+        bfs(R, C, pii(sx, sy));
+        pfi(level[ex][ey]);endl;
+
+    }
     
     
     return 0;
