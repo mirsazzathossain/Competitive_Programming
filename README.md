@@ -17,6 +17,7 @@ All done now whenever you want to start a new code just create a cpp file and ty
 
 ## BFS
 1. [UVA 10653 - Bombs! NO they are Mines!!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=18&page=show_problem&problem=1594)
+2. [UVA 10959 - The Party, Part I](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1900)
 
 ## DFS
 1. [LightOj 1094 - Farthest Nodes in a Tree](http://lightoj.com/volume_showproblem.php?problem=1094)
