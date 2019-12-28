@@ -1,1 +1,10 @@
-12
+Case 1: 175
+Case 2: 414
+Case 3: 351
+Case 4: 288
+Case 5: 598
+Case 6: 594
+Case 7: 702
+Case 8: 271
+Case 9: 433
+Case 10: 889
