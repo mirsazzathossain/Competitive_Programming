@@ -23,3 +23,4 @@ All done now whenever you want to start a new code just create a cpp file and ty
 
 ## DFS
 1. [LightOj 1094 - Farthest Nodes in a Tree](http://lightoj.com/volume_showproblem.php?problem=1094)
+2. [UVA 12442 - Forwarding Emails](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3873)
