@@ -1,0 +1,10 @@
+2 is a prime number.
+3 is a prime number.
+5 is a prime number.
+4 is not a prime number.
+6 is not a prime number.
+7 is a prime number.
+10 is not a prime number.
+9 is not a prime number.
+71 is a prime number.
+21 is not a prime number.
