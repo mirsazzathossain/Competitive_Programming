@@ -28,3 +28,19 @@ All done now whenever you want to start a new code just create a cpp file and ty
 
 ## Sieve Of Eratosthenes
 1. [Toph Correct the Sieve](https://toph.co/p/correct-the-sieve)
+
+## Bitwise Sieve
+1. [SPOJ TDPRIMES - Printing some primes](https://www.spoj.com/problems/TDPRIMES/)
+
+## GCD
+1. [1028 Collectable Cards](https://www.urionlinejudge.com.br/judge/en/problems/view/1028)
+
+## Primality Test
+1. [URI 1221 Fast Prime Number](https://www.urionlinejudge.com.br/judge/en/problems/view/1221)
+
+## Bignum Arithmetic
+1. [1279 Leap Year or Not Leap Year and …](https://www.urionlinejudge.com.br/judge/en/problems/view/1279)
+
+## Easy Problems
+### else if
+1. [2344 Tasting Notes](https://www.urionlinejudge.com.br/judge/en/problems/view/2344)
