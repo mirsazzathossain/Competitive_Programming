@@ -41,6 +41,30 @@ All done now whenever you want to start a new code just create a cpp file and ty
 ## Bignum Arithmetic
 1. [1279 Leap Year or Not Leap Year and …](https://www.urionlinejudge.com.br/judge/en/problems/view/1279)
 
+## String Split
+1. [2493 Jogo do Operador](https://www.urionlinejudge.com.br/judge/en/problems/view/2493)
+
 ## Easy Problems
-### else if
+### if else
 1. [2344 Tasting Notes](https://www.urionlinejudge.com.br/judge/en/problems/view/2344)
+2. [2486 C Mais ou Menos?](https://www.urionlinejudge.com.br/judge/en/problems/view/2486)
+
+### String
+1. [2486 C Mais ou Menos?](https://www.urionlinejudge.com.br/judge/en/problems/view/2486)
+2. [2493 Jogo do Operador](https://www.urionlinejudge.com.br/judge/en/problems/view/2493)
+3. [2502 Deciphering the Encrypted Card](https://www.urionlinejudge.com.br/judge/en/problems/view/2502)
+4. [2510 Batmain](https://www.urionlinejudge.com.br/judge/en/problems/view/2510)
+5. [2523 Will's Message](https://www.urionlinejudge.com.br/judge/en/problems/view/2523)
+6. [1120 Contract Revision](https://www.urionlinejudge.com.br/judge/en/problems/view/1120)
+7. [1168 LED](https://www.urionlinejudge.com.br/judge/en/problems/view/1168)
+8. [1222 Short Story Competition](https://www.urionlinejudge.com.br/judge/en/problems/view/1222)
+9. [1234 Dancing Sentence](https://www.urionlinejudge.com.br/judge/en/problems/view/1234)
+10. [1235 Inside Out](https://www.urionlinejudge.com.br/judge/en/problems/view/1235)
+11. [1238 Combiner](https://www.urionlinejudge.com.br/judge/en/problems/view/1238)
+12. [1239 Bloggo Shortcuts](https://www.urionlinejudge.com.br/judge/en/problems/view/1239)
+13. [1241 Fit or Dont Fit II](https://www.urionlinejudge.com.br/judge/en/problems/view/1241)
+14. [1243 How Easy](https://www.urionlinejudge.com.br/judge/en/problems/view/1243)
+
+### Math
+1. [2520 The Last Analógimôn](https://www.urionlinejudge.com.br/judge/en/problems/view/2520)
+2. [2533 Internship](https://www.urionlinejudge.com.br/judge/en/problems/view/2533)
