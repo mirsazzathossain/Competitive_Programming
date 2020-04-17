@@ -64,6 +64,14 @@ All done now whenever you want to start a new code just create a cpp file and ty
 12. [1239 Bloggo Shortcuts](https://www.urionlinejudge.com.br/judge/en/problems/view/1239)
 13. [1241 Fit or Dont Fit II](https://www.urionlinejudge.com.br/judge/en/problems/view/1241)
 14. [1243 How Easy](https://www.urionlinejudge.com.br/judge/en/problems/view/1243)
+15. [1248 Diet Plan](https://www.urionlinejudge.com.br/judge/en/problems/view/1248)
+16. [1249 Rot13](https://www.urionlinejudge.com.br/judge/en/problems/view/1249)
+17. [1253 Caesar Cipher](https://www.urionlinejudge.com.br/judge/en/problems/view/1253)
+18. [1254 Tag Replacement](https://www.urionlinejudge.com.br/judge/en/problems/view/1254)
+19. [1255 Letter Frequency](https://www.urionlinejudge.com.br/judge/en/problems/view/1255)
+20. [1287 Friendly Int Parser](https://www.urionlinejudge.com.br/judge/en/problems/view/1287)
+21. [1305 Cut Off Rounder](https://www.urionlinejudge.com.br/judge/en/problems/view/1305)
+22. [1332 One-Two-Three](https://www.urionlinejudge.com.br/judge/en/problems/view/1332)
 
 ### Math
 1. [2520 The Last Analógimôn](https://www.urionlinejudge.com.br/judge/en/problems/view/2520)
