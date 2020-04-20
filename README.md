@@ -26,8 +26,16 @@ All done now whenever you want to start a new code just create a cpp file and ty
 1. [LightOj 1094 - Farthest Nodes in a Tree](http://lightoj.com/volume_showproblem.php?problem=1094)
 2. [UVA 12442 - Forwarding Emails](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3873)
 
+## Recursion
+### Josephus Problem
+1. [1030 Flavious Josephus Legend](https://www.urionlinejudge.com.br/judge/en/problems/index/2)
+2. [1032 Joseph’s Cousin](https://www.urionlinejudge.com.br/judge/en/problems/view/1032)
+3. [1031 Power Crisis](https://www.urionlinejudge.com.br/judge/en/problems/view/1031)
+4. [151 - Power Crisis](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=87)
+
 ## Sieve Of Eratosthenes
 1. [Toph Correct the Sieve](https://toph.co/p/correct-the-sieve)
+2. [1032 Joseph’s Cousin](https://www.urionlinejudge.com.br/judge/en/problems/view/1032)
 
 ## Bitwise Sieve
 1. [SPOJ TDPRIMES - Printing some primes](https://www.spoj.com/problems/TDPRIMES/)
@@ -43,6 +51,9 @@ All done now whenever you want to start a new code just create a cpp file and ty
 
 ## String Split
 1. [2493 Jogo do Operador](https://www.urionlinejudge.com.br/judge/en/problems/view/2493)
+
+## Bitwise Operations
+1. [1026 To Carry or not to Carry](https://www.urionlinejudge.com.br/judge/en/problems/view/1026)
 
 ## Easy Problems
 ### if else
@@ -72,6 +83,13 @@ All done now whenever you want to start a new code just create a cpp file and ty
 20. [1287 Friendly Int Parser](https://www.urionlinejudge.com.br/judge/en/problems/view/1287)
 21. [1305 Cut Off Rounder](https://www.urionlinejudge.com.br/judge/en/problems/view/1305)
 22. [1332 One-Two-Three](https://www.urionlinejudge.com.br/judge/en/problems/view/1332)
+23. [1262 Multiple Reading](https://www.urionlinejudge.com.br/judge/en/problems/view/1262)
+24. [1263 Alliteration](https://www.urionlinejudge.com.br/judge/en/problems/view/1263)
+25. [1272 Hidden Message](https://www.urionlinejudge.com.br/judge/en/problems/view/1272)
+26. [1273 Justifier](https://www.urionlinejudge.com.br/judge/en/problems/view/1273)
+27. [1276 Letter Range](https://www.urionlinejudge.com.br/judge/en/problems/view/1276)
+28. [1277 Short Attendance](https://www.urionlinejudge.com.br/judge/en/problems/view/1277)
+29. [1278 Justifier II](https://www.urionlinejudge.com.br/judge/en/problems/view/1278)
 
 ### Math
 1. [2520 The Last Analógimôn](https://www.urionlinejudge.com.br/judge/en/problems/view/2520)
