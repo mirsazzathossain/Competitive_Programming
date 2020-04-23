@@ -55,6 +55,12 @@ All done now whenever you want to start a new code just create a cpp file and ty
 ## Bitwise Operations
 1. [1026 To Carry or not to Carry](https://www.urionlinejudge.com.br/judge/en/problems/view/1026)
 
+## Map
+1. [1086 The Club Ballroom](https://www.urionlinejudge.com.br/judge/en/problems/view/1086)
+
+## Implementation
+1. [1090 Set](https://www.urionlinejudge.com.br/judge/en/problems/view/1090)
+
 ## Easy Problems
 ### if else
 1. [2344 Tasting Notes](https://www.urionlinejudge.com.br/judge/en/problems/view/2344)
@@ -94,3 +100,10 @@ All done now whenever you want to start a new code just create a cpp file and ty
 ### Math
 1. [2520 The Last Analógimôn](https://www.urionlinejudge.com.br/judge/en/problems/view/2520)
 2. [2533 Internship](https://www.urionlinejudge.com.br/judge/en/problems/view/2533)
+3. [1091 Division of Nlogonia](https://www.urionlinejudge.com.br/judge/en/problems/view/1091)
+
+### Grid
+1. [1087 Queen](https://www.urionlinejudge.com.br/judge/en/problems/view/1087)
+
+### Array Indexing
+1. [1089 Musical Loop](https://www.urionlinejudge.com.br/judge/en/problems/view/1089)
