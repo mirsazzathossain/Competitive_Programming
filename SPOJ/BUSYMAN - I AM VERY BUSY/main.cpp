@@ -8,8 +8,7 @@ struct scedule{
 };
 
 bool operator<(const scedule& s1, const scedule& s2) {
-    if(s1.end_time != s2.end_time) return s1.end_time<s2.end_time;
-    return false;
+    return s1.end_time<s2.end_time;
 }
 
 
