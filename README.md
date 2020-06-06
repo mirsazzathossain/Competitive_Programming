@@ -26,6 +26,9 @@ All done now whenever you want to start a new code just create a cpp file and ty
 1. [LightOj 1094 - Farthest Nodes in a Tree](http://lightoj.com/volume_showproblem.php?problem=1094)
 2. [UVA 12442 - Forwarding Emails](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3873)
 
+## Greedy
+1. [SPOJ BUSYMAN - I AM VERY BUSY](https://www.spoj.com/problems/BUSYMAN/)
+
 ## Recursion
 ### Josephus Problem
 1. [URI 1030 Flavious Josephus Legend](https://www.urionlinejudge.com.br/judge/en/problems/index/2)
@@ -42,6 +45,9 @@ All done now whenever you want to start a new code just create a cpp file and ty
 
 ## GCD
 1. [URI 1028 Collectable Cards](https://www.urionlinejudge.com.br/judge/en/problems/view/1028)
+
+## Number of Common Divisors
+1. [SPOJ COMDIV - Number of common divisors](https://www.spoj.com/problems/COMDIV/)
 
 ## Primality Test
 1. [URI 1221 Fast Prime Number](https://www.urionlinejudge.com.br/judge/en/problems/view/1221)
