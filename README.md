@@ -15,6 +15,9 @@ You can use this as a snippets for setup your code faster in your editor. As i u
 
 All done now whenever you want to start a new code just create a cpp file and type cpp and hit enter. You will get lines of code to start with. Happy Coding :) !!
 
+## Important Tutorials
+1. [Greedy is good!](https://www.topcoder.com/community/competitive-programming/tutorials/greedy-is-good/?fbclid=IwAR2q26equInlS5fL9rMwj5r15OZ0l8n5Gpkxpn380nGYpMUivq_ztOfibT4)
+
 ## BFS
 1. [UVA 10653 - Bombs! NO they are Mines!!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=18&page=show_problem&problem=1594)
 2. [UVA 10959 - The Party, Part I](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1900)
@@ -35,6 +38,9 @@ All done now whenever you want to start a new code just create a cpp file and ty
 2. [URI 1032 Joseph’s Cousin](https://www.urionlinejudge.com.br/judge/en/problems/view/1032)
 3. [URI 1031 Power Crisis](https://www.urionlinejudge.com.br/judge/en/problems/view/1031)
 4. [UVA 151 - Power Crisis](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=87)
+
+### Largest subarray with contiguous elements per query
+1. [Toph Metro Rail Blocks](https://toph.co/p/metro-rail-blocks)
 
 ## Sieve Of Eratosthenes
 1. [Toph Correct the Sieve](https://toph.co/p/correct-the-sieve)
