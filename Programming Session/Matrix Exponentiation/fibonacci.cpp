@@ -23,13 +23,12 @@ TwoD multiply(TwoD x, TwoD y){
 
 TwoD multiply_dynamic(TwoD x, TwoD y){
     TwoD temp;
-    temp.resize(2);
-    temp[0].resize(2);
-    temp[1].resize(2);
+
+    //matrix.resize(row_count, vector<int>(column_count, initialization_value ))
+    temp.resize(x.size(), OneD(y[0].size(), 0));
 
     for(int i=0; i<x.size(); i++){
         for(int j=0; j<y[0].size(); j++){
-            temp[i][j] = 0;
             for(int k=0; k<x[0].size(); k++){
                 temp[i][j] += x[i][k]*y[k][j];
             }
@@ -43,9 +42,9 @@ TwoD power(TwoD x, int exp){
     if(exp==1) return x;
 
     TwoD temp = power(x, exp/2);
-    temp = multiply(temp, temp);
+    temp = multiply_dynamic(temp, temp);
 
-    if(exp%2==1) temp = multiply(temp, x);
+    if(exp%2==1) temp = multiply_dynamic(temp, x);
     return temp;
 }
 

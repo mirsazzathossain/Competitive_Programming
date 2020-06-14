@@ -17,6 +17,7 @@ All done now whenever you want to start a new code just create a cpp file and ty
 
 ## Important Tutorials
 1. [Greedy is good!](https://www.topcoder.com/community/competitive-programming/tutorials/greedy-is-good/?fbclid=IwAR2q26equInlS5fL9rMwj5r15OZ0l8n5Gpkxpn380nGYpMUivq_ztOfibT4)
+2. [Matrix Exponentiation](https://zobayer.blogspot.com/2010/11/matrix-exponentiation.html?m=1&fbclid=IwAR0z6J2_Ik0ZDLqxtD7KaALelxXg-zFEffN1Eq5ay1jIVwijMTMoo_01npc)
 
 ## BFS
 1. [UVA 10653 - Bombs! NO they are Mines!!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=18&page=show_problem&problem=1594)
