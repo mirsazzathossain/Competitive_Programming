@@ -43,6 +43,10 @@ All done now whenever you want to start a new code just create a cpp file and ty
 ### Largest subarray with contiguous elements per query
 1. [Toph Metro Rail Blocks](https://toph.co/p/metro-rail-blocks)
 
+### Matrix Exponentiation
+1. [UVA 10229 - Modular Fibonacci](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1170)
+2. [UVA 10870 - Recurrences](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1811)
+
 ## Sieve Of Eratosthenes
 1. [Toph Correct the Sieve](https://toph.co/p/correct-the-sieve)
 2. [URI 1032 Joseph’s Cousin](https://www.urionlinejudge.com.br/judge/en/problems/view/1032)
