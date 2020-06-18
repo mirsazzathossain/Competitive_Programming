@@ -46,6 +46,10 @@ All done now whenever you want to start a new code just create a cpp file and ty
 ### Matrix Exponentiation
 1. [UVA 10229 - Modular Fibonacci](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1170)
 2. [UVA 10870 - Recurrences](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1811)
+3. [LightOj 1065 - Number Sequence](http://lightoj.com/volume_showproblem.php?problem=1065)
+4. [LightOj 1070 - Algebraic Problem](http://lightoj.com/volume_showproblem.php?problem=1070)
+5. [LightOj 1096 - nth Term](http://lightoj.com/volume_showproblem.php?problem=1096)
+6. [LightOj 1131 - Just Two Functions](http://lightoj.com/volume_showproblem.php?problem=1131)
 
 ## Sieve Of Eratosthenes
 1. [Toph Correct the Sieve](https://toph.co/p/correct-the-sieve)
